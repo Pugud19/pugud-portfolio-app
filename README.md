@@ -1,5 +1,5 @@
 
-# [Pugud : Microservice project for FCC]
+# Pugud : Microservice project for FCC
 
 ### Desctioprio : 
 this is a porfolio application which displays pugud's API and Microservice work as part of the free code camp curriculum.
